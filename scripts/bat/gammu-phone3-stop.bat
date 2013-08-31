@@ -1,0 +1,1 @@
+C:\Gammu\bin\gammu-smsd -c C:\Gammu\bin\setting\smsdrc_phone3 -n Gammu-Phone3 -k

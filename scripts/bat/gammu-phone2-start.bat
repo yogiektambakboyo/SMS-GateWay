@@ -1,0 +1,1 @@
+C:\Gammu\bin\gammu-smsd -c C:\Gammu\bin\setting\smsdrc_phone2 -s -n Gammu-Phone2
